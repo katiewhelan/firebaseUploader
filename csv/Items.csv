@@ -1,0 +1,30 @@
+objectId,collectionId,userId,title,notes,genre,author,type,image,series,own,listenedToWatchedRead,volume,format
+f1703193-a759-4067-b7c1-74a60c91b195,0fc6e662-f4a1-4e99-94af-28af81dd915c,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Harry Potter and the Chamber of Secrets,,,,Movie,,,true,true,,DVD
+9eff824c-ee1b-4180-9454-5c2687952c03,0fc6e662-f4a1-4e99-94af-28af81dd915c,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Harry Potter and the Sorcerer's Stone,,,,Movie,,,true,true,,DVD
+43960eb1-98c9-4a07-bebe-8beb3ab2c766,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Harry Potter and the Sorcer's Stone ,,,JK Rowling,Book,,Harry Potter,true,true,,Book
+f3fd99db-efba-4b41-9255-5985eb2bbd42,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Alice in Wonderland,,,Lewis Carroll,Book,,,true,true,,Book
+5d1b5d0c-36cf-4fe8-8eb9-cb7a4cf05aec,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Harry Potter and the Chamber of Secrets,,,JK Rowling,Book,,Harry Potter,true,true,,Book
+ec5705bf-93cb-43a8-9da1-8e01d710ed56,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,The Hobbit,,,J.R.R. Tolkien,Book,,The Lord of the Rings,true,true,,Book
+dfec204d-0498-45a1-bb01-34635121d059,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,The Fellowship of the Ring ,,,J.R.R. Tolkien,Book,,The Lord of the Rings,true,true,,Book
+1d3bd017-a244-4def-b3ca-e4b7c49a7271,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,The Two Towers,,,J.R.R. Tolkien,Book,,the Lord of the Rings,true,true,,Book
+5cf87d74-be3e-4393-b744-06a2fab16bcb,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,The Return of the King,,,J.R.R. Tolkien,Book,,the Lord of the Rings,true,true,,Book
+ac090b5c-ca5c-43aa-8f1a-5ee9f9062ffa,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,"The Lion, the Witch and the Wardrobe",,,C.S. Lewis,Book,,The Chronicles of Narnia,true,true,,Book
+773b6810-991b-4398-a902-fb31ef8620fb,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Harry Potter and the Prisoner of Azkaban,,,JK Rowling,Book,,Harry Potter,true,true,,Book
+1b32b11d-40b9-4472-a4f4-bc50c4e7ab6a,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Harry Potter and the Goblet of Fire,,,JK Rowling,Book,,Harry Potter,true,true,,Book
+fbbff330-ed65-47be-b4c6-72b4275c7d4b,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Harry Potter and the Order of the Phoenix,,,JK Rowling,Book,,Harry Potter,true,true,,Book
+19e8d8a8-d1fe-48f6-89c7-fc014c7ea847,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Harry Potter and the Half-Blood Prince,,,JK Rowling,Book,,Harry Potter,true,true,,Book
+07d730c6-b600-41f2-964f-37f51f0be1be,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Harry Potter and the Deathly Hallows,,,JK Rowling,Book,,Harry Potter,true,true,,Book
+c01e9a93-52b7-4b27-8f9a-1633039ffc2a,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Dial M - The Murder of Carol Thompson,,,Swanson,Book,,,true,true,,Book
+335645ad-f308-4d4d-9e69-a498bbeae5f9,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Onward,,,Howard Schultz,Book,,,true,true,,Book
+a1ed2f9d-f4e2-4d7a-b570-30603bd14a2e,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Irrefutalble Evidence - Adventures in the History of Forensic Science,,,Michael Kurland,Book,,,true,true,,Book
+cff97b3b-2045-40ab-8ac1-49eedb58543a,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Eragon,,,Paolini,Book,,The Inheritance Cycle,true,true,,Book
+ce656aeb-7d33-4c4e-aad7-211eb2f8f28e,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Behind the Beautiful Forevers,,,Kathrine Boo,Book,,,true,true,,Book
+f0eb128a-398c-4034-90af-2a0ac94b0976,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,The Murder Room ,,,Michael Capuzzo ,Book,,,true,true,,Book
+3b898fc5-2580-412f-84a1-155f78915d45,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Strength Based Leadership,,,Tom Rath,Book,,,true,true,,Book
+9a976d95-2baa-4f98-b2e0-bdc9236164b9,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Presence Bringing your Boldest Seld to Your Biggest Challenges ,,,Amy Cuddy ,Book,,,true,true,,Book
+c7b17eb6-4d71-4bb2-a859-90d0e43fe615,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,The 7 Habits of Highly Effective Teens,,,Sean Covey,Book,,,true,true,,Book
+186d9c2a-fd51-47bc-98eb-42206ca3ac08,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Stumbling on Happiness,,,Daniel Gilbert,Book,,,true,true,,Book
+8126a0da-98e4-49fe-b5a7-af8cd54111af,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,A Short History of Nearly Everything,,,Bill Bryson,Book,,,true,true,,Book
+634631f2-3dc2-47c8-b1b9-b8841cec92b8,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,The World Almanac For Kids 2002,,,,Book,,,true,true,,Book
+1ff66884-7400-4142-9642-87c1e41d0116,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,Fahrenheit 451,,,Ray Bradbury,Book,,,true,true,,Book
+49dd8dd8-ef6d-47b9-a351-be7d2909ce22,SxrGjxKFQDe2g2fJJkIh,AfL2NZLH4qOsQtqrH0ijyVz2LF22,The Lord of the Rings Location Guidbook,,,Ian Brodie,Book,,,true,true,,Book
